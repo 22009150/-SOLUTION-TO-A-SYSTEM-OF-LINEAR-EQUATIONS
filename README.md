@@ -27,7 +27,7 @@ print(sol)
 
 ## Output:
 
- file:///home/sec/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/solve.png
+ ![](./solve.png)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
