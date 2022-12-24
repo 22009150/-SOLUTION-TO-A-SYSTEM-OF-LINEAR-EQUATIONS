@@ -14,6 +14,7 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
+
 '''python
 #Program to find the solution for the given linear equations.
 #Developed by:Archana.K 
@@ -27,7 +28,7 @@ print(sol)
 
 ## Output:
 
- ![](./solve.png)
+ ![](./file:///home/sec/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/solve.png)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
