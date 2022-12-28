@@ -25,9 +25,9 @@ sol=np.linalg.solve(A,B)
 print(sol)
 ```
 
-## Output:
-![Uploading exp1_solution() - Copy.png…]
- ![](./file:///home/sec/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/solve.png)
+## Output
+![output](EXP1_solution)
+![](./file:///home/sec/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/solve.png)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
