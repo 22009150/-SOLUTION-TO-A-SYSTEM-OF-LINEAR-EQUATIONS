@@ -26,8 +26,9 @@ print(sol)
 ```
 
 ## Output:
+![]![exp1_solution](https://user-images.githubusercontent.com/118708624/209919939-d68d7aa8-70e0-49d8-81d8-eb86e8cdb35b.png)
 
-![](./file:///home/sec/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/solve.png)
+(./file:///home/sec/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/solve.png)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
